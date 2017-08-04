@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        print("ashiba I'm trying SSH Key")
+        print("ashiba I'm trying SSH Key");
+        var aNewInt:Int = 300;
     }
 
     override func didReceiveMemoryWarning() {
